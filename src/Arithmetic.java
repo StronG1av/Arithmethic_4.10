@@ -2,6 +2,7 @@ public class Arithmetic {
     public int value1 = 0;
     public int value2 = 0;
 
+    // TODO: 07.02.2024 do task 2 
     public static void main(String[] args) {
         System.out.println(addition(10,5));
         System.out.println(multiplication(10,5));

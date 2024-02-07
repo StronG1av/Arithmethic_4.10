@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2658d7df-b60f-4006-acec-80f47e48096e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arithmethic_4.10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arithmetic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +35,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "A:/1_SkillBox_Java/Task4/Arithmethic_4.10",
     "settings.editor.selected.configurable": "configurable.group.appearance"
   }
 }]]></component>
